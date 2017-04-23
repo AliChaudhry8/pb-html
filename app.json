@@ -3,13 +3,13 @@
   "description": "Pandorabots HTML interface with Node.js backend",
   "env": {
     "PANDORABOTS_APP_ID": {
-      "description": "Your Pandorabots application ID"
+      "description": ""
     },
     "PANDORABOTS_USER_KEY": {
-      "description": "Your Pandorabots user key"
+      "description": "
     },
     "PANDORABOTS_BOTNAME": {
-      "description": "The name of the bot you'd like to connect to"
+      "description": ""
     },
     "PANDORABOTS_URL": {
       "description": "The fully qualified URL of the Pandorabots API",
